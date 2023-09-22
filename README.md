@@ -4,7 +4,7 @@ Welcome to my Data Engineering Professional Certificate repository! This reposit
 
 ## About the Program
 
-The [Data Engineering Professional Certificate](https://www.ibm.com/uk-en/cloud/learn/data-engineer-professional-certificate) by IBM is designed to equip individuals with the skills and knowledge needed to excel in the field of data engineering. It covers a wide range of topics, including data ingestion, transformation, storage, and more.
+The [Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) by IBM is designed to equip individuals with the skills and knowledge needed to excel in the field of data engineering. It covers a wide range of topics, including data ingestion, transformation, storage, and more.
 
 ## Projects
 
