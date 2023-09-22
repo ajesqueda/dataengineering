@@ -10,8 +10,8 @@ The [Data Engineering Professional Certificate](https://www.ibm.com/uk-en/cloud/
 
 ### Project 1: Data Ingestion
 
-- [Project 1 Repository](link_to_project1_repository)
-- Description: This project focuses on data ingestion techniques, including extracting data from various sources and loading it into a data store.
+- [Project 1 ETL Assigned Peer Review](link_to_project1_repository)
+- Description: This project focuses on the ETL process (Extract, Transform, and Load). In this project FinTech data was extracted using an API key and was loaded to a CSV.
 
 ### Project 2: Data Transformation
 
