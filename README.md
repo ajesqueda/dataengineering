@@ -8,9 +8,9 @@ The [Data Engineering Professional Certificate](https://www.ibm.com/uk-en/cloud/
 
 ## Projects
 
-### Project 1: Data Ingestion
+### Project 1: ETL Assigned Peer Review
 
-- [Project 1 ETL Assigned Peer Review](link_to_project1_repository)
+- [Project 1 Repository](https://github.com/ajesqueda/dataengineering/blob/main/ETL_peer_review/ETL_Engineer_Peer_Review_Assignment.ipynb)
 - Description: This project focuses on the ETL process (Extract, Transform, and Load). In this project FinTech data was extracted using an API key and was loaded to a CSV.
 
 ### Project 2: Data Transformation
